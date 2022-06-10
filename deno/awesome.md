@@ -8,3 +8,12 @@ These can be used to run libs in deno that haven't necessarily been written for 
 
 - <https://esm.sh>
 - <https://www.skypack.dev>
+
+## Libs
+
+My go to deno libs for various things.
+
+- HTTP Client: <https://github.com/sindresorhus/ky>
+- HTTP Server: <https://github.com/aaronwlee/Attain>
+- Fake Data: <https://github.com/faker-js/faker>
+- 
