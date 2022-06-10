@@ -1,5 +1,3 @@
-# Deno Equivalent of `__filename` & `__dirname`
-
 In Deno, there aren't variables like `__dirname` or `__filename` but you can get the same values thanks to `import.meta.url`.
 
 ```ts
